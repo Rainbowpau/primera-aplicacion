@@ -1,0 +1,20 @@
+{
+  "name": "primera_app",
+  "version": "1.0.0",
+  "description": "tarea para curso",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rainbowpau/primera-aplicacion.git"
+  },
+  "author": "Paula Calixto",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Rainbowpau/primera-aplicacion/issues"
+  },
+  "homepage": "https://github.com/Rainbowpau/primera-aplicacion#readme"
+}
